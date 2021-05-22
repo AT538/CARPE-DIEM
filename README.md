@@ -1,2 +1,2 @@
-# CARPE-DIEM
+# College Events
 An event management  portal .
